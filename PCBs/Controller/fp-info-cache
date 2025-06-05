@@ -1,0 +1,71 @@
+17087255853741
+Svens Custom Footprints
+AMS312 PIR
+Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.54mm single row
+0
+3
+3
+Svens Custom Footprints
+AMS1117-3.3V
+
+
+0
+4
+4
+Svens Custom Footprints
+AMS1117-5.0V
+
+
+0
+4
+4
+Svens Custom Footprints
+Arduino_Nano
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+30
+30
+Svens Custom Footprints
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
+0
+3
+3
+Svens Custom Footprints
+DS18B20
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Svens Custom Footprints
+FuseHolder_Sven
+
+
+0
+2
+2
+Svens Custom Footprints
+JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical
+JST XH series connector, B2B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
+0
+2
+2
+Svens Custom Footprints
+Pololu_Breakout-A4988
+Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\
+Pololu Breakout
+0
+16
+16
+Svens Custom Footprints
+TerminalBlock_bornier-2_P5.08mm
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
