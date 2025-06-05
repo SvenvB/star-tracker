@@ -1,11 +1,11 @@
-# DIY Sidereal Star Tracker for the Orion SpaceProbe 130ST
+# DIY Sidereal Star Tracker for the EQ-13 mount (Orion SpaceProbe 130ST telescope)
 
-I'm using the [Orion SpaceProbe 130ST telescope](https://www.highpointscientific.com/orion-spaceprobe-130st-short-tube-eq-reflector-telescope) with a [ZWO ASI224MC](https://www.zwoastro.com/product/zwo-asi224mc/) CMOS imaging camera and enjoy deep-sky imaging without breaking the bank. I got the telescope right before Orion ceased to exist and was therefore unable to purchase their [electronic tracking drive](https://www.amazon.com/Orion-Electronic-Tracking-Drive-Mount/dp/B0B9GHRXKY/ref=zg_bs_g_3426091_d_sccl_18/139-5786178-3062238?psc=1) for the EQ-13 mount that came with the telescope. As a result, I decided to make a simple driver myself. The total price was around $50 (I am not fully sure since I had various components already in house), with the cost dominated by the stepper motor (~$30).
+I'm using the [Orion SpaceProbe 130ST telescope](https://www.highpointscientific.com/orion-spaceprobe-130st-short-tube-eq-reflector-telescope) with a [ZWO ASI224MC](https://www.zwoastro.com/product/zwo-asi224mc/) CMOS imaging camera and enjoy deep-sky imaging without breaking the bank. I got the telescope right before Orion ceased to exist and was therefore unable to purchase their [electronic tracking drive](https://www.amazon.com/Orion-Electronic-Tracking-Drive-Mount/dp/B0B9GHRXKY/ref=zg_bs_g_3426091_d_sccl_18/139-5786178-3062238?psc=1) for the [EQ-13 mount](https://optcorp.com/products/orion-eq-13-equatorial-telescope-mount-and-tripod?srsltid=AfmBOooOyh1JBukKWYQKR0jKjXO8pRvacwGi2XBEpK7pBYKymDbFRSgW) that came with the telescope. As a result, I decided to make a simple driver myself. The total price was around $50 (I am not fully sure since I had various components already in house), with the cost dominated by the stepper motor (~$30).
 
 The star tracker is powered by a 12 V source using 8× 1.5 V AA batteries. This power source is also used for my [Flat Frame Light Diffuser](https://github.com/SvenvB/Flat-frame-light-diffuser). The battery pack lasts at least one or two full nights imaging.
 
 <img src="./Photos/Star-tracker.jpg" width="400">
-<img src="./Photos/Controller Connections.jpg" width="400">
+<img src="./Photos/Controller connections.jpg" width="400">
 <img src="./Photos/Motor assembly.jpg" width="400">
 
 With this motor, I’ve been able to consistently achieve good tracking for exposure times of up to 5 seconds without noticeable star trailing. For example, see the stacked result of a 140-frame, 5-second exposure of the M27 Dumbbell Nebula:
